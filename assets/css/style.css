@@ -1,3 +1,6 @@
+.line::before{
+  content:'\2022';
+}
 
 body {
   font-family: "Open Sans", sans-serif;
